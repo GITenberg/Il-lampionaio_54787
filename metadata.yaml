@@ -1,0 +1,26 @@
+_repo: Il-lampionaio_54787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cummins, Maria S. (Maria Susanna)
+    aliases:
+    - Cummins, Maria Susanna
+    - Cumming, Maria Susanna
+    birthdate: 1827
+    deathdate: 1866
+    gutenberg_agent_id: '35526'
+    url: http://www.gutenberg.org/2009/agents/35526
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2017-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54787'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Il lampionaio
+url: http://www.gutenberg.org/ebooks/54787
